@@ -30,9 +30,9 @@ Yuliia Suprun, Davyd Fridman, Timofey Efimov
 
 💼 [Timofey Efimov](timofeyefimov02@gmail.com)
 
-💼 [Davyd Fridman](your_email)
+💼 [Davyd Fridman](https://github.com/tiger9800)
 
-💼 [Yuliia Suprun](your_email)
+💼 [Yuliia Suprun](https://github.com/YuliiaSuprun)
 
 <img src="https://i.ibb.co/s97jpPJ/RiceD2k.png" alt="drawing" height="300"/>
 <img src="https://i.ibb.co/9WG2FZN/bill-com-logo.png" alt="drawing" height="300"/>
